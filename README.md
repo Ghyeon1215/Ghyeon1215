@@ -12,7 +12,6 @@
 </div>
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ghyeon1215&show_icons=true&title_color=red&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
- 
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ghyeon1215)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
