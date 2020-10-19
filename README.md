@@ -11,7 +11,7 @@
   
 </div>
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ghyeon1215&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ghyeon1215&hide=contribs,prs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
