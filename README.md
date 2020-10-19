@@ -11,7 +11,7 @@
   
 </div>
 
-<div align=center>
+<div align=left, border=none>
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ghyeon1215&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
