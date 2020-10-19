@@ -16,7 +16,7 @@
 
 <div align=center>
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ghyeon1215)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ghyeon1215&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 <!--
