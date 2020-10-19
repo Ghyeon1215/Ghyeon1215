@@ -4,6 +4,12 @@
 
 </div>
 
+<div align=left>
+  
+  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/Ghyeon10/)
+  
+</div>
+
 
 <!--
 **Ghyeon1215/Ghyeon1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
