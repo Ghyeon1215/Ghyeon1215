@@ -6,7 +6,13 @@
 
 ### <p>Hyun's Github👋</p>
 
-<script src="https://gist.github.com/LeeSeongJinCa/4d3558bbfe52f8fca47e94674148e433.js"></script>
+### Interest 
+  <ul>
+	<li>ReactJS</li>
+	<li>TypeScript</li>
+	<li>Material</li>
+  </ul>
+
 <!--
 **Ghyeon1215/Ghyeon1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
