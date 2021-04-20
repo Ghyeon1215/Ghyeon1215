@@ -6,7 +6,7 @@
 
 ### <p>Hyun's Github👋</p>
 
-<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif"></img>
+<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="200px"></img>
 
 <!--
 **Ghyeon1215/Ghyeon1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
