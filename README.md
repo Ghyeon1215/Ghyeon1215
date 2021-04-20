@@ -1,5 +1,4 @@
-
-                                                [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
 <!--
 **Ghyeon1215/Ghyeon1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
