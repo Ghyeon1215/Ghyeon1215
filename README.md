@@ -1,7 +1,4 @@
 <div align=left>
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&text=전규현입니다!&fontSize=60&fontColor=ffffff)
-  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGhyeon1215&count_bg=%238ADA4D&title_bg=%237B7A7A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
